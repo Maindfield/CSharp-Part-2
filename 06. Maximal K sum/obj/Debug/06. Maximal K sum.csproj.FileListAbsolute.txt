@@ -1,0 +1,6 @@
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\06. Maximal K sum\bin\Debug\_06.Maximal_K_sum.exe.config
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\06. Maximal K sum\bin\Debug\_06.Maximal_K_sum.exe
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\06. Maximal K sum\bin\Debug\_06.Maximal_K_sum.pdb
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\06. Maximal K sum\obj\Debug\06. Maximal K sum.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\06. Maximal K sum\obj\Debug\_06.Maximal_K_sum.exe
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\06. Maximal K sum\obj\Debug\_06.Maximal_K_sum.pdb

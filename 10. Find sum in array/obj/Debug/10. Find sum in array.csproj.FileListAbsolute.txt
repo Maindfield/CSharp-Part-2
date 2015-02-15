@@ -1,0 +1,5 @@
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\10. Find sum in array\bin\Debug\_10.Find_sum_in_array.exe.config
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\10. Find sum in array\bin\Debug\_10.Find_sum_in_array.exe
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\10. Find sum in array\bin\Debug\_10.Find_sum_in_array.pdb
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\10. Find sum in array\obj\Debug\_10.Find_sum_in_array.exe
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\10. Find sum in array\obj\Debug\_10.Find_sum_in_array.pdb

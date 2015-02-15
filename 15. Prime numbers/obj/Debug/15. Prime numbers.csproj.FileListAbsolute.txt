@@ -1,0 +1,5 @@
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\15. Prime numbers\bin\Debug\_15.Prime_numbers.exe.config
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\15. Prime numbers\bin\Debug\_15.Prime_numbers.exe
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\15. Prime numbers\bin\Debug\_15.Prime_numbers.pdb
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\15. Prime numbers\obj\Debug\_15.Prime_numbers.exe
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\15. Prime numbers\obj\Debug\_15.Prime_numbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\14. Quick sort\bin\Debug\_14.Quick_sort.exe.config
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\14. Quick sort\bin\Debug\_14.Quick_sort.exe
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\14. Quick sort\bin\Debug\_14.Quick_sort.pdb
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\14. Quick sort\obj\Debug\_14.Quick_sort.exe
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\14. Quick sort\obj\Debug\_14.Quick_sort.pdb

@@ -1,0 +1,5 @@
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\11. Binary search\bin\Debug\_11.Binary_search.exe.config
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\11. Binary search\bin\Debug\_11.Binary_search.exe
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\11. Binary search\bin\Debug\_11.Binary_search.pdb
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\11. Binary search\obj\Debug\_11.Binary_search.exe
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\11. Binary search\obj\Debug\_11.Binary_search.pdb

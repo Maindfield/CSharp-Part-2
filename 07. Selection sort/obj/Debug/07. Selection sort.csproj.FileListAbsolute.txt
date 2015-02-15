@@ -1,0 +1,6 @@
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\07. Selection sort\bin\Debug\_07.Selection_sort.exe.config
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\07. Selection sort\bin\Debug\_07.Selection_sort.exe
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\07. Selection sort\bin\Debug\_07.Selection_sort.pdb
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\07. Selection sort\obj\Debug\07. Selection sort.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\07. Selection sort\obj\Debug\_07.Selection_sort.exe
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\07. Selection sort\obj\Debug\_07.Selection_sort.pdb

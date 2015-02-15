@@ -1,0 +1,6 @@
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\03. Compare char arrays\bin\Debug\_03.Compare_char_arrays.exe.config
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\03. Compare char arrays\bin\Debug\_03.Compare_char_arrays.exe
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\03. Compare char arrays\bin\Debug\_03.Compare_char_arrays.pdb
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\03. Compare char arrays\obj\Debug\03. Compare char arrays.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\03. Compare char arrays\obj\Debug\_03.Compare_char_arrays.exe
+C:\Users\Georgi\Downloads\CShapt 2 Homework Templates with comments\CShapt 2 Homework Templates with comments\01. Arrays - Homework\03. Compare char arrays\obj\Debug\_03.Compare_char_arrays.pdb
